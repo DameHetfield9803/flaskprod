@@ -14,7 +14,7 @@ def home():
     <title>Index</title>
 </head>
 <body>
-    <main class="bg-black mx-auto text-center min-h-screen min-w-full p-2">
+    <main class="bg-black mx-auto text-center min-h-screen min-w-full p-3">
         <h1 class="text-4xl text-pink-500">Hello world</h1>
     </main>
 </body>
@@ -33,7 +33,7 @@ def test():
     <title>Test</title>
 </head>
 <body>
-    <main class="bg-black mx-auto text-center min-h-screen min-w-full p-2">
+    <main class="bg-black mx-auto text-center min-h-screen min-w-full p-3">
         <h1 class="text-4xl text-pink-500">Testing testing 123...</h1>
     </main>
 </body>
